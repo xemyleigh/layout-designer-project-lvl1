@@ -18,6 +18,10 @@
   "homepage": "https://github.com/xemyleigh/layout-designer-project-lvl1#readme",
   "devDependencies": {
     "htmlhint": "^1.1.4",
-    "stylelint-config-standard": "^26.0.0"
+    "stylelint": "^14.9.1",
+    "stylelint-config-rational-order": "^0.0.4",
+    "stylelint-config-standard": "^26.0.0",
+    "stylelint-config-standard-scss": "^4.0.0",
+    "stylelint-order": "^5.0.0"
   }
 }
