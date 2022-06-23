@@ -222,6 +222,11 @@ nav {
   font-size: 16px;
 }
 
+.footer-title h3 {
+  margin: 55px;
+  color: var(--white);
+}
+
 .card:hover,
 .card:hover h3 {
   color: var(--white);
@@ -324,11 +329,6 @@ nav {
 
 .footer-title {
   flex-basis: 50%;
-}
-
-.footer-title h3 {
-  margin: 55px;
-  color: var(--white);
 }
 
 .form {
